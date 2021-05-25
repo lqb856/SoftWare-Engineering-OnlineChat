@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>g.png</file>
+        <file>maskicon.png</file>
+        <file>BackGround.jpg</file>
+        <file>BTN.png</file>
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>background.jfif</file>
+        <file>rest.png</file>
+    </qresource>
+</RCC>
